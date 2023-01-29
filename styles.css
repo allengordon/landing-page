@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    width: 250px;
+    height: auto;
+}
+
+.navbar > a{
+    display: flex;
+    justify-content: space-between;
+}
